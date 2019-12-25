@@ -19,7 +19,7 @@
   "author": "PlasmaDLT",
   "license": "MIT",
   "dependencies": {
-    "@plasma/plasmajs-ecc": "git+https://github.com/plasmadlt/plasmajs-ecc.git#v.0.1.0",
+    "@plasma/plasmajs-ecc": "git+https://github.com/plasmadlt/plasmajs-ecc.git",
     "babel-runtime": "^6.26.0",
     "text-encoding": "^0.6.4"
   },
