@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+      "target": "es5",
+      "module": "CommonJS",
+      "outDir": ".",
+      "alwaysStrict": true,
+      "sourceMap": false,
+      "inlineSourceMap": true,
+      "noImplicitAny": true,
+      "moduleResolution": "node",
+      "declaration": true,
+      "downlevelIteration": true,
+      "lib": [
+          "es2017",
+          "dom"
+      ]
+  },
+  "include": [
+      "src/*.ts",
+      "src/*.js"
+  ],
+  "exclude": [
+      "src/*.test.ts"
+  ]
+}
